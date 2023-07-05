@@ -5,7 +5,7 @@
 ![](docs/.gitbook/assets/airbyte\_new\_logo.svg)
 
 **Data integration made simple, secure and extensible.**\
-The new open-source standard to sync data from applications, APIs & databases to warehouses, lakes & various other destinations.
+The new open-source standard to sync data from applications, APIs & databases to warehouses, lakes & other destinations.
 
 [![](docs/.gitbook/assets/deploy-locally.svg)](docs/deploying-airbyte/local-deployment.md) [![](docs/.gitbook/assets/deploy-on-aws.svg)](docs/deploying-airbyte/on-aws-ec2.md) [![](docs/.gitbook/assets/deploy-on-gcp.svg)](docs/deploying-airbyte/on-gcp-compute-engine.md)
 
